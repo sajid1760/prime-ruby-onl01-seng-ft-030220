@@ -11,8 +11,8 @@ end
 while a < iter do 
   if num % a == 0 then
     boolers = FALSE
-    a = a + 1
   end
+  a += 1
 end
   boolers
 end
