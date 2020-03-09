@@ -16,3 +16,5 @@ while a < iter do
 end
   boolers
 end
+
+puts prime(2)
