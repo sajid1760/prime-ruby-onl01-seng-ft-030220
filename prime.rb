@@ -17,4 +17,4 @@ end
   boolers
 end
 
-puts prime?(100)
+puts prime?(101)
